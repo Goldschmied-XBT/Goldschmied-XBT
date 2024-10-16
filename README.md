@@ -5,4 +5,4 @@ Aren’t you also tired of all the apps that claim to help you find a partner or
 
 **“Love isn’t about finding someone perfect; it’s about growing together, supporting one another through life’s challenges, and building a bond based on trust and understanding.”**
 
-~ Progress: [█---- ----- ----- -----] 5%
+<!--- ~ Progress: [█---- ----- ----- -----] 5% --->
